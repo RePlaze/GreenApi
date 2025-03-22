@@ -1,0 +1,6 @@
+base.url=https://api.green-api.com/waInstance%s
+instance.id=YOUR_INSTANCE_ID
+api.token=YOUR_API_TOKEN
+chat.id=YOUR_CHAT_ID
+test.message=Test message
+chat.history.limit=100 
